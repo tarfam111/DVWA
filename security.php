@@ -75,7 +75,6 @@ $page[ 'body' ] .= "
 		" . tokenField() . "
 	</form>
 </div>";
-
 dvwaHtmlEcho( $page );
 
 ?>
